@@ -34,8 +34,8 @@ class MainActivity : ComponentActivity() {
 @Composable
 fun GreetingPreview() {
     Act7Theme {
-        Homepage {
-
+        Customerpage(onSubmitCLicked = {}) {
+            
         }
     }
 }
