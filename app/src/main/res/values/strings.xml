@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">Act7</string>
+    <string name="back_btn">Kembali</string>
+    <string name="confrm">Konfirmasi</string>
+    <string name="nxt">Lanjut</string>
+    <string name="cncl">Batal</string>
+    <string name="vanila">Vanila</string>
+    <string name="lemon">Lemon</string>
+    <string name="original">Original</string>
+    <string name="milk">Milky</string>
+    <string name="lyche">Lyche</string>
+    <string name="order_sum">Ringkasan Order</string>
+    <string name="send">Send Order to Another App</string>
+    <string name="quantity">Jumlah</string>
+    <string name="flavor">Rasa</string>
+    <string name="subtotal_price">Subtotal: Rp %s</string>
+    <string name="total_price">Total: %s</string>
+    <string name="name">Nama</string>
+    <string name="no_telp">Nomor Telepon</string>
+    <string name="address">Alamat</string>
+    <string name="bck_button">Kembali</string>
+    <string name="submit_button">Submit</string>
 </resources>
